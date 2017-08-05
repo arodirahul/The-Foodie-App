@@ -2,12 +2,12 @@
 
 Android app development practice
 
-Username: Rahul
+Username: Rahul    
 Email: a@gmail.com
 
-1st Activity - Login page
-2nd Activity - Main Activity
-3rd Activity - Account Details
+1st Activity - Login page    
+2nd Activity - Main Activity    
+3rd Activity - Account Details    
 4th Activity - Order Confirmation and History
 
 After pressing the order button in the main activity,the user is routed to the Order Confirmation and History page where he/she'll
