@@ -1,0 +1,43 @@
+<resources>
+    <!--For Login Screen-->
+    <string name="app_name">The Foodie App</string>
+    <string name="name_hint">Name</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="title">The Foodie App</string>
+    <string name="login_screen">Login screen</string>
+    <string name="login">Login</string>
+    <!--For Login Screen-->
+
+    <!--For Main Screen-->
+    <string name="cusName">Welcome, %s.</string>
+    <string name="item">Please select the food item.</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="summary">Order summary:</string>
+    <string name="order_now">Order</string>
+    <string name="summary1">You have ordered %1$s — %2$s. </string>
+    <string name="action_settings">Settings</string>
+    <string name="ping">Visit our Website</string>
+    <string name="cost">Total bill : Rs.%1$s X %2$s = Rs.%3$s </string>
+    <string name="recharge">Recharge Balance</string>
+    <!--For Main Screen-->
+
+    <!--For Account Details Screen-->
+    <string name="account_details">Account Details</string>
+    <string name="details">Name : %1$s \nEmail : %2$s</string>
+    <!--For Account Details Screen-->
+
+    <!--For Order History Screen-->
+    <string name="account_details1">History</string>
+    <string name="title_activity_order_history">OrderHistoryActivity</string>
+    <string name="order_history">Order History</string>
+    <string name="food_Item">Food Item</string>
+    <string name="food_Quantity">Item Quantity</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="purchase_history">Display Purchase History</string>
+    <string name="food_cost">Total cost</string>
+
+    <!--For Order History Screen-->
+
+</resources>
